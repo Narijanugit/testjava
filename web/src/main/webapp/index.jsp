@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    This is a very simple example web page on a JSP Nari reddy testjava in tomcat 8.5
+    This is a very simple example web page on a JSP Narendra reddy testjava in tomcat 8.5
   </p>
 </body>
 </html>
